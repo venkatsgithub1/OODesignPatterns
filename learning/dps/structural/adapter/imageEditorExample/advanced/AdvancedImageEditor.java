@@ -4,7 +4,6 @@ import learning.dps.structural.adapter.imageEditorExample.exceptions.AdvancedIma
 import learning.dps.structural.adapter.imageEditorExample.image.Image;
 
 public interface AdvancedImageEditor {
-	
 	public void openTIFF(Image image) throws AdvancedImagesTypeException;
 
 	public void openPNG(Image image) throws AdvancedImagesTypeException;

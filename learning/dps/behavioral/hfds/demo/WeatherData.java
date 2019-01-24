@@ -35,7 +35,7 @@ public class WeatherData implements Subject {
         }
     }
 
-    public void measurementsChanged() {
+    private void measurementsChanged() {
         notifyObservers();
     }
 

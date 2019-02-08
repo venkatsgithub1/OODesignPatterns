@@ -11,8 +11,10 @@ Object Oriented Design Patterns
     Abstractions should not depend on details. Details should depend on abstractions.
 </p>
 
-<h3>Creational</h3>
+<h3>SOLID Principles</h3>
 <h4><a href=https://github.com/venkatsgithub1/OODesignPatterns/tree/master/learning/solid/dependencyInversion>Dependency Inversion</a></h4>
+
+<h3>Creational</h3>
 <h4><a href="https://github.com/venkatsgithub1/OODesignPatterns/tree/master/learning/dps/creational/singleton">Singleton</a></h4>
 <h4><a href="https://github.com/venkatsgithub1/OODesignPatterns/tree/master/learning/dps/creational/abstractFactory">Abstract Factory</a></h4>
 <h4><a href="https://github.com/venkatsgithub1/OODesignPatterns/tree/master/learning/dps/creational/builder">Builder</a></h4>

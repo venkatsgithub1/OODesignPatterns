@@ -1,4 +1,4 @@
-package learning.dps.behavioral.strategy.cameraExample.before;
+package learning.dps.behavioral.strategy.cameraExample;
 
 public abstract class PhoneCameraApp {
 
